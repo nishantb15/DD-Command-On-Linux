@@ -1,7 +1,3 @@
-/**
- * Deepfried dd
- * CS 241 - Spring 2020
- */
 #pragma once
 #include <stddef.h>
 
