@@ -1,7 +1,3 @@
-/**
- * Deepfried dd
- * CS 241 - Spring 2020
- */
 #include "format.h"
 #include <unistd.h>
 #include <string.h>
